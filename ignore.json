@@ -1,0 +1,17 @@
+[
+"camunda/camunda-cockpit-plugin-statistics",
+"camunda/camunda-cycle-connectors",
+"camunda/camunda-bpm-assert",
+"camunda/camunda.org-new",
+"camunda/camunda-archetypes",
+"camunda/best-practices",
+"camunda/camunda-bpm-reactor",
+"camunda/camunda-consulting",
+"camunda/camunda-bpm-camel",
+"camunda/camunda-sso-jboss",
+"camunda/camunda-bpm-process-test-coverage",
+"camunda/camunda-bpm-migration",
+"camunda/camunda-bpm-graphql",
+"camunda/camunda-bpm-mockito",
+"camunda/camunda-bpm-custom-batch"
+]
