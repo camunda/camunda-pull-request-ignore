@@ -13,5 +13,6 @@
 "camunda/camunda-bpm-migration",
 "camunda/camunda-bpm-graphql",
 "camunda/camunda-bpm-mockito",
-"camunda/camunda-bpm-custom-batch"
+"camunda/camunda-bpm-custom-batch",
+"camunda/camunda-bpm-swagger"
 ]
