@@ -14,5 +14,6 @@
 "camunda/camunda-bpm-graphql",
 "camunda/camunda-bpm-mockito",
 "camunda/camunda-bpm-custom-batch",
-"camunda/camunda-bpm-swagger"
+"camunda/camunda-bpm-swagger",
+"camunda/camunda-dmn-xlsx"
 ]
