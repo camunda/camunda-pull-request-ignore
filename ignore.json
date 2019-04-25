@@ -1,7 +1,6 @@
 [
 "camunda/camunda-cockpit-plugin-statistics",
 "camunda/camunda-cycle-connectors",
-"camunda/camunda-bpm-assert",
 "camunda/camunda.org-new",
 "camunda/camunda-archetypes",
 "camunda/best-practices",
