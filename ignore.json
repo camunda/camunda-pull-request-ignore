@@ -15,5 +15,8 @@
 "camunda/camunda-bpm-custom-batch",
 "camunda/camunda-bpm-swagger",
 "camunda/camunda-dmn-xlsx",
-"camunda/trisotech-cycle-connector"
+"camunda/trisotech-cycle-connector",
+"camunda/docker-camunda-bpm-platform",
+"camunda/feel-scala",
+"camunda/dmn-scala"
 ]
