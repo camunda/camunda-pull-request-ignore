@@ -18,5 +18,6 @@
 "camunda/trisotech-cycle-connector",
 "camunda/docker-camunda-bpm-platform",
 "camunda/feel-scala",
-"camunda/dmn-scala"
+"camunda/dmn-scala",
+"camunda/camunda-optimize-examples"
 ]
