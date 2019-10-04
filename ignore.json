@@ -20,5 +20,6 @@
 "camunda/feel-scala",
 "camunda/dmn-scala",
 "camunda/camunda-optimize-examples",
-"camunda/camunda-bpm-assert-scenario"
+"camunda/camunda-bpm-assert-scenario",
+"camunda/camunda-modeler"
 ]
