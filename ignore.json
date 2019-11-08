@@ -22,5 +22,6 @@
 "camunda/camunda-optimize-examples",
 "camunda/camunda-bpm-assert-scenario",
 "camunda/camunda-modeler",
-"camunda/camunda-bpm-workbench"
+"camunda/camunda-bpm-workbench",
+"camunda/blog.camunda.org"
 ]
