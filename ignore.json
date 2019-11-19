@@ -23,5 +23,6 @@
 "camunda/camunda-bpm-assert-scenario",
 "camunda/camunda-modeler",
 "camunda/camunda-bpm-workbench",
-"camunda/blog.camunda.org"
+"camunda/blog.camunda.org",
+"camunda/camunda-bpm-identity-keycloak"
 ]
