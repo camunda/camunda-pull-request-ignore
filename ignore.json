@@ -24,5 +24,6 @@
 "camunda/camunda-modeler",
 "camunda/camunda-bpm-workbench",
 "camunda/blog.camunda.org",
-"camunda/camunda-bpm-identity-keycloak"
+"camunda/camunda-bpm-identity-keycloak",
+"camunda/camunda-modeler-custom-linter-rules-plugin"
 ]
