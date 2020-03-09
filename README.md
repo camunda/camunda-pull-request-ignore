@@ -1,6 +1,6 @@
 # Camunda Pull Request Ignore
 
-Incomplete list of repositories which are ignored on [pull request overview](https://hq2.camunda.com/pull-requests.html).
+Incomplete list of repositories which are ignored on [pull request overview](https://pr.cambpm.camunda.cloud/).
 
 ## Ignore a repostiory
 
