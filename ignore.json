@@ -27,5 +27,6 @@
 "camunda/camunda-bpm-identity-keycloak",
 "camunda/camunda-modeler-custom-linter-rules-plugin",
 "camunda/camunda-sso-snippets",
-"camunda/camunda-bpm-platform-osgi"
+"camunda/camunda-bpm-platform-osgi",
+"camunda/technology-radars"
 ]
