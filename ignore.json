@@ -28,5 +28,6 @@
 "camunda/camunda-modeler-custom-linter-rules-plugin",
 "camunda/camunda-sso-snippets",
 "camunda/camunda-bpm-platform-osgi",
-"camunda/technology-radars"
+"camunda/technology-radars",
+"camunda/camunda-bpm-mail"
 ]
