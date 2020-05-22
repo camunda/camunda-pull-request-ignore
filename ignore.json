@@ -29,5 +29,6 @@
 "camunda/camunda-sso-snippets",
 "camunda/camunda-bpm-platform-osgi",
 "camunda/technology-radars",
-"camunda/camunda-bpm-mail"
+"camunda/camunda-bpm-mail",
+"camunda/camunda-acm-plugin"
 ]
