@@ -30,5 +30,6 @@
 "camunda/camunda-bpm-platform-osgi",
 "camunda/technology-radars",
 "camunda/camunda-bpm-mail",
-"camunda/camunda-acm-plugin"
+"camunda/camunda-acm-plugin",
+"camunda/infra-nexus3-oss"
 ]
