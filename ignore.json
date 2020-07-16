@@ -32,5 +32,6 @@
 "camunda/camunda-bpm-mail",
 "camunda/camunda-acm-plugin",
 "camunda/infra-nexus3-oss",
-"camunda/camunda-engine-cassandra"
+"camunda/camunda-engine-cassandra",
+"camunda/camunda-modeler-plugins"
 ]
