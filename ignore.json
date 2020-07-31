@@ -33,5 +33,6 @@
 "camunda/camunda-acm-plugin",
 "camunda/infra-nexus3-oss",
 "camunda/camunda-engine-cassandra",
-"camunda/camunda-modeler-plugins"
+"camunda/camunda-modeler-plugins",
+"camunda/camunda-modeler-linter-plugin"
 ]
