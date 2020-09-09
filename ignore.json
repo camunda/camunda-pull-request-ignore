@@ -34,5 +34,6 @@
 "camunda/infra-nexus3-oss",
 "camunda/camunda-engine-cassandra",
 "camunda/camunda-modeler-plugins",
-"camunda/camunda-modeler-linter-plugin"
+"camunda/camunda-modeler-linter-plugin",
+"camunda/vault-dump-kv2"
 ]
