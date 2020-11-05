@@ -34,5 +34,6 @@
 "camunda/camunda-engine-cassandra",
 "camunda/camunda-modeler-plugins",
 "camunda/camunda-modeler-linter-plugin",
-"camunda/vault-dump-kv2"
+"camunda/vault-dump-kv2",
+"camunda/camunda-bpm-php-sdk"
 ]
