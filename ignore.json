@@ -35,5 +35,6 @@
 "camunda/camunda-modeler-plugins",
 "camunda/camunda-modeler-linter-plugin",
 "camunda/vault-dump-kv2",
-"camunda/camunda-bpm-php-sdk"
+"camunda/camunda-bpm-php-sdk",
+"camunda/camunda-bpm-junit5"
 ]
