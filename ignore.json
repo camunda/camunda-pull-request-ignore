@@ -37,5 +37,6 @@
 "camunda/vault-dump-kv2",
 "camunda/camunda-bpm-php-sdk",
 "camunda/camunda-bpm-junit5",
-"element-templates-json-schema"
+"camunda/element-templates-json-schema",
+"camunda/camunda-bpmn-js"
 ]
