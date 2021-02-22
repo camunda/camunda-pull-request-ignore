@@ -39,5 +39,5 @@
 "camunda/camunda-bpm-junit5",
 "camunda/element-templates-json-schema",
 "camunda/camunda-bpmn-js",
-"camunda/camunda-cockpit-plugins"
+"camunda/camunda-cockpit-plugins-deprecated"
 ]
