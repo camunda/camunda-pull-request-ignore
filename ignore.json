@@ -40,5 +40,6 @@
 "camunda/element-templates-json-schema",
 "camunda/camunda-bpmn-js",
 "camunda/camunda-cockpit-plugins-deprecated",
-"camunda/camunda-bpm-grpc-external-task"
+"camunda/camunda-bpm-grpc-external-task",
+"camunda/awesome-camunda-external-clients"
 ]
