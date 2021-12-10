@@ -42,5 +42,6 @@
 "camunda/camunda-cockpit-plugins-deprecated",
 "camunda/camunda-bpm-grpc-external-task",
 "camunda/awesome-camunda-external-clients",
-"camunda/camunda-docs-cawemo"
+"camunda/camunda-docs-cawemo",
+"camunda/camunda-modeler-plugin-helpers"
 ]
