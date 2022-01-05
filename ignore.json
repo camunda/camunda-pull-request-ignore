@@ -43,5 +43,6 @@
 "camunda/camunda-bpm-grpc-external-task",
 "camunda/awesome-camunda-external-clients",
 "camunda/camunda-docs-cawemo",
-"camunda/camunda-modeler-plugin-helpers"
+"camunda/camunda-modeler-plugin-helpers",
+"camunda/camunda-modeler-process-io-specification-plugin"
 ]
