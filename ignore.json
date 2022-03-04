@@ -46,5 +46,5 @@
 "camunda/camunda-modeler-plugin-helpers",
 "camunda/camunda-modeler-process-io-specification-plugin",
 "camunda/infra-global-github-actions",
-"camunda/camunda/camunda-cloud-helm"
+"camunda/camunda-cloud-helm"
 ]
