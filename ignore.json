@@ -45,5 +45,6 @@
 "camunda/camunda-docs-cawemo",
 "camunda/camunda-modeler-plugin-helpers",
 "camunda/camunda-modeler-process-io-specification-plugin",
-"camunda/infra-global-github-actions"
+"camunda/infra-global-github-actions",
+"camunda/camunda/camunda-cloud-helm"
 ]
