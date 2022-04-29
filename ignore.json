@@ -47,5 +47,6 @@
 "camunda/infra-global-github-actions",
 "camunda/camunda-platform-helm",
 "camunda/zeebe-process-test",
-"camunda/zeebe"
+"camunda/zeebe",
+"camunda/camunda-platform-docs"
 ]
