@@ -48,5 +48,6 @@
 "camunda/camunda-platform-helm",
 "camunda/zeebe-process-test",
 "camunda/zeebe",
-"camunda/camunda-platform-docs"
+"camunda/camunda-platform-docs",
+"camunda/camunda-platform-get-started"
 ]
