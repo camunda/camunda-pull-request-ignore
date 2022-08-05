@@ -49,5 +49,6 @@
 "camunda/zeebe-process-test",
 "camunda/zeebe",
 "camunda/camunda-platform-docs",
-"camunda/camunda-platform-get-started"
+"camunda/camunda-platform-get-started",
+"camunda/camunda-platform"
 ]
