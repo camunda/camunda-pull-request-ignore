@@ -55,5 +55,7 @@
   "camunda/connector-sdk",
   "camunda/connector-slack",
   "camunda/connector-aws-lambda",
-  "camunda/connector-sqs"  
+  "camunda/connector-sqs",
+  "camunda/connector-sendgrid",
+  "camunda/connector-http-json"
 ]
