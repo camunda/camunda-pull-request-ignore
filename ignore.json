@@ -57,5 +57,6 @@
   "camunda/connector-aws-lambda",
   "camunda/connector-sqs",
   "camunda/connector-sendgrid",
-  "camunda/connector-http-json"
+  "camunda/connector-http-json",
+  "camunda/camunda-bpmn-moddle"
 ]
