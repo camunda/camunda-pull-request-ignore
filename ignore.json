@@ -58,5 +58,6 @@
   "camunda/connector-sqs",
   "camunda/connector-sendgrid",
   "camunda/connector-http-json",
-  "camunda/camunda-bpmn-moddle"
+  "camunda/camunda-bpmn-moddle",
+  "camunda/connector-google-drive"
 ]
