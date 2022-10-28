@@ -49,6 +49,7 @@
   "camunda/camunda-platform-helm",
   "camunda/zeebe-process-test",
   "camunda/zeebe",
+  "camunda/zeebe-bpmn-moddle",
   "camunda/camunda-platform-docs",
   "camunda/camunda-platform-get-started",
   "camunda/camunda-platform",
