@@ -61,5 +61,6 @@
   "camunda/connector-http-json",
   "camunda/camunda-bpmn-moddle",
   "camunda/connector-google-drive",
-  "camunda/connector-template"
+  "camunda/connector-template",
+  "camunda/connectors-bundle"
 ]
