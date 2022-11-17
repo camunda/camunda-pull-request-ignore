@@ -57,10 +57,13 @@
   "camunda/connector-slack",
   "camunda/connector-aws-lambda",
   "camunda/connector-sqs",
+  "camunda/connector-sns",
   "camunda/connector-sendgrid",
   "camunda/connector-http-json",
   "camunda/camunda-bpmn-moddle",
   "camunda/connector-google-drive",
   "camunda/connector-template",
-  "camunda/connectors-bundle"
+  "camunda/connectors-bundle",
+  "camunda/connector-rabbitmq",
+  "camunda/connector-kafka"
 ]
