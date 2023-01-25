@@ -1,7 +1,4 @@
-# Camunda Pull Request Ignore
+# The Pull Requests Overview Board has been retired
 
-Incomplete list of repositories which are ignored on [pull request overview](https://pr.cambpm.camunda.cloud/).
+Please refer to Community Worker internal process and Handling of pull requests.
 
-## Ignore a repostiory
-
-To ignore a repository add it to the list in the [ignore.json](ignore.json).
